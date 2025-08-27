@@ -111,7 +111,7 @@ export default function App() {
     const body = encodeURIComponent(
       `Hi, I'm ${name} from ${biz} (${niche}). I'd like a free AI Marketing Audit.\n\nMy goals: [increase bookings / more reviews / better social]\n\nContact me at ${email}`
     );
-    window.location.href = `mailto:hello@yourdomain.com?subject=Free AI Marketing Audit&body=${body}`;
+    window.location.href = `mailto:ah44357@gmail.com?subject=Free AI Marketing Audit&body=${body}`;
   };
 
   return (
